@@ -1,0 +1,5 @@
+C:\Users\thomas.karlsson3\Documents\prog2\Tamagotchi\obj\Debug\net6.0\Tamagotchi.csproj.AssemblyReference.cache
+C:\Users\thomas.karlsson3\Documents\prog2\Tamagotchi\obj\Debug\net6.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomas.karlsson3\Documents\prog2\Tamagotchi\obj\Debug\net6.0\Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\thomas.karlsson3\Documents\prog2\Tamagotchi\obj\Debug\net6.0\Tamagotchi.AssemblyInfo.cs
+C:\Users\thomas.karlsson3\Documents\prog2\Tamagotchi\obj\Debug\net6.0\Tamagotchi.csproj.CoreCompileInputs.cache
