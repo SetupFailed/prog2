@@ -17,5 +17,5 @@ foreach (string i in toys)
 int[] num = {1, 3, 5, 7, 9};
 
 for (int i = 0; i < toys.Length; i++) {
-    
+    Console.WriteLine(people[i] + " ger " + toys[i]);
 }
