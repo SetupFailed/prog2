@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BvVA1/nIou7PPqFEv1Y6oySN0Eq+pXpVCKfS6PcMseCQsigGCRagvbFDPYwYV1zUB8vESVRpUhCR3VnS5wTZ4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thomas.karlsson3\\Documents\\prog2\\idk\\idek\\idek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thomas.karlsson3\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\thomas.karlsson3\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\thomas.karlsson3\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\thomas.karlsson3\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

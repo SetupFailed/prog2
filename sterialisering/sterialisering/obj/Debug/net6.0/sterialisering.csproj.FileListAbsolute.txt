@@ -1,0 +1,5 @@
+C:\Users\thomas.karlsson3\Documents\prog2\sterialisering\sterialisering\obj\Debug\net6.0\sterialisering.csproj.AssemblyReference.cache
+C:\Users\thomas.karlsson3\Documents\prog2\sterialisering\sterialisering\obj\Debug\net6.0\sterialisering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomas.karlsson3\Documents\prog2\sterialisering\sterialisering\obj\Debug\net6.0\sterialisering.AssemblyInfoInputs.cache
+C:\Users\thomas.karlsson3\Documents\prog2\sterialisering\sterialisering\obj\Debug\net6.0\sterialisering.AssemblyInfo.cs
+C:\Users\thomas.karlsson3\Documents\prog2\sterialisering\sterialisering\obj\Debug\net6.0\sterialisering.csproj.CoreCompileInputs.cache

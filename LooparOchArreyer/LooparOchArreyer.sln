@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loopar och arrayer", "Loopar och arrayer\Loopar och arrayer.csproj", "{4046AA46-0D6B-4652-8755-55B97028F541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4046AA46-0D6B-4652-8755-55B97028F541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4046AA46-0D6B-4652-8755-55B97028F541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4046AA46-0D6B-4652-8755-55B97028F541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4046AA46-0D6B-4652-8755-55B97028F541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

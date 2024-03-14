@@ -1,0 +1,15 @@
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\bin\Debug\net6.0\Loopar och arrayer.exe
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\bin\Debug\net6.0\Loopar och arrayer.deps.json
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\bin\Debug\net6.0\Loopar och arrayer.runtimeconfig.json
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\bin\Debug\net6.0\Loopar och arrayer.dll
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\bin\Debug\net6.0\Loopar och arrayer.pdb
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\obj\Debug\net6.0\Loopar och arrayer.csproj.AssemblyReference.cache
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\obj\Debug\net6.0\Loopar och arrayer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\obj\Debug\net6.0\Loopar och arrayer.AssemblyInfoInputs.cache
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\obj\Debug\net6.0\Loopar och arrayer.AssemblyInfo.cs
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\obj\Debug\net6.0\Loopar och arrayer.csproj.CoreCompileInputs.cache
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\obj\Debug\net6.0\Loopar och arrayer.dll
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\obj\Debug\net6.0\refint\Loopar och arrayer.dll
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\obj\Debug\net6.0\Loopar och arrayer.pdb
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\obj\Debug\net6.0\Loopar och arrayer.genruntimeconfig.cache
+c:\Users\thomas.karlsson3\Documents\prog2\LooparOchArreyer\Loopar och arrayer\obj\Debug\net6.0\ref\Loopar och arrayer.dll

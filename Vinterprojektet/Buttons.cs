@@ -6,9 +6,13 @@ public class Button
 
 public class ContinueButton : Button
 {
-    public void Selection()
+    public ContinueButton()
     {
         SelectedChoice = ""
+    }
+    public void Selection()
+    {
+        
     }
 }
 
