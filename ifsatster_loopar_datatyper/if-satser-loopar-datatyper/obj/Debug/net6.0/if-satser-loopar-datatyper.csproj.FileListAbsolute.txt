@@ -1,0 +1,15 @@
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\bin\Debug\net6.0\if-satser-loopar-datatyper.exe
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\bin\Debug\net6.0\if-satser-loopar-datatyper.deps.json
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\bin\Debug\net6.0\if-satser-loopar-datatyper.runtimeconfig.json
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\bin\Debug\net6.0\if-satser-loopar-datatyper.dll
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\bin\Debug\net6.0\if-satser-loopar-datatyper.pdb
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\obj\Debug\net6.0\if-satser-loopar-datatyper.csproj.AssemblyReference.cache
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\obj\Debug\net6.0\if-satser-loopar-datatyper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\obj\Debug\net6.0\if-satser-loopar-datatyper.AssemblyInfoInputs.cache
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\obj\Debug\net6.0\if-satser-loopar-datatyper.AssemblyInfo.cs
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\obj\Debug\net6.0\if-satser-loopar-datatyper.csproj.CoreCompileInputs.cache
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\obj\Debug\net6.0\if-satser-loopar-datatyper.dll
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\obj\Debug\net6.0\refint\if-satser-loopar-datatyper.dll
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\obj\Debug\net6.0\if-satser-loopar-datatyper.pdb
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\obj\Debug\net6.0\if-satser-loopar-datatyper.genruntimeconfig.cache
+C:\Users\thomas.karlsson3\Documents\prog2\ifsatster_loopar_datatyper\if-satser-loopar-datatyper\obj\Debug\net6.0\ref\if-satser-loopar-datatyper.dll

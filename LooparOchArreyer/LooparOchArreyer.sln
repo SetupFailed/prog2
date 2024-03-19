@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loopar och arrayer", "Loopar och arrayer\Loopar och arrayer.csproj", "{4046AA46-0D6B-4652-8755-55B97028F541}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_satser_loopar_datatyper", "if_satser_loopar_datatyper\if_satser_loopar_datatyper.csproj", "{78E00EF9-FD80-44F6-9831-F41F3D7EB899}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{4046AA46-0D6B-4652-8755-55B97028F541}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4046AA46-0D6B-4652-8755-55B97028F541}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4046AA46-0D6B-4652-8755-55B97028F541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E00EF9-FD80-44F6-9831-F41F3D7EB899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E00EF9-FD80-44F6-9831-F41F3D7EB899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E00EF9-FD80-44F6-9831-F41F3D7EB899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E00EF9-FD80-44F6-9831-F41F3D7EB899}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
