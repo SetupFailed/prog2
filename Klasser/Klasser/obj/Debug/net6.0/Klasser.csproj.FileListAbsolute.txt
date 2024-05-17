@@ -1,0 +1,15 @@
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\bin\Debug\net6.0\Klasser.exe
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\bin\Debug\net6.0\Klasser.deps.json
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\bin\Debug\net6.0\Klasser.runtimeconfig.json
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\bin\Debug\net6.0\Klasser.dll
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\bin\Debug\net6.0\Klasser.pdb
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\obj\Debug\net6.0\Klasser.csproj.AssemblyReference.cache
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\obj\Debug\net6.0\Klasser.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\obj\Debug\net6.0\Klasser.AssemblyInfoInputs.cache
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\obj\Debug\net6.0\Klasser.AssemblyInfo.cs
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\obj\Debug\net6.0\Klasser.csproj.CoreCompileInputs.cache
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\obj\Debug\net6.0\Klasser.dll
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\obj\Debug\net6.0\refint\Klasser.dll
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\obj\Debug\net6.0\Klasser.pdb
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\obj\Debug\net6.0\Klasser.genruntimeconfig.cache
+c:\Users\thomas.karlsson3\Documents\prog2\Klasser\Klasser\obj\Debug\net6.0\ref\Klasser.dll

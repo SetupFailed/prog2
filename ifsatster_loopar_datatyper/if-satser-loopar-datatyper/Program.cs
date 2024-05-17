@@ -1,7 +1,9 @@
 ﻿
 
+using System.ComponentModel.DataAnnotations;
 using System.Linq.Expressions;
 using System.Net.Security;
+using System.Security.Cryptography.X509Certificates;
 /*
 if (6 > 3)
 {
@@ -59,18 +61,60 @@ for (var i = 0; i < 5; i++)
 */
 
 bool valid = false;
+string validInput = "";
 
-while (valid == true)
+
+/*
+while (valid == false)
 {
     Console.WriteLine("skriv in ett tal");
-    string validInput = Console.ReadLine();
+    validInput = Console.ReadLine();
 
     if (int.TryParse(validInput, out int someNumber))
     {
+        Console.WriteLine($"Du skrev {someNumber}");
+        valid = true;
+    }
+    else
+    {
+        Console.WriteLine("ETT NUMMER DIN KUK!");
+        valid = false;
+    }
+
+}
+Console.WriteLine("inte i loop");
+Console.ReadLine();
+*/
+int randomNumber = Random.Shared.Next(1, 11);
+int guess = 0;
+
+while (!valid)
+{
+
+    Console.WriteLine("Gissa siffran mellan 1 - 10");
+    validInput = Console.ReadLine();
+
+    if (!int.TryParse(validInput, out guess))
+    {
+        Console.WriteLine("ETT NUMMER DIN KUK!");
+        valid = false;
+    }
+     if (guess < randomNumber)
+    {
+        Console.WriteLine("Högre");
         
     }
+    else if (guess > randomNumber)
+    {
+        Console.WriteLine("lägre");
+        
+    }
+    else if (guess == randomNumber)
+    {
+        Console.WriteLine("YIPPIEEEE!! RÄTT NUMMER");
+        Console.ReadLine();
+        break;
+    }
+
 }
-
-/*int numberFive = 0;
-
-bool success = int.TryParse(five, out numberFive);*/
+Console.ReadLine();

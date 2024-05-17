@@ -1,4 +1,4 @@
-﻿
+﻿/*
 
 string[] toys = { "Bakugan", "Beyblade", "Omnitrix", "Tamagotchi", "HotWheels" };
 string[] people = { "Sunnie", "Tommi", "Tin", "Zacke", "Nicole" };
@@ -17,7 +17,7 @@ for (int i = 0; i < toys.Length; i++)
     Console.WriteLine(people[i] + " ger " + toys[i] + " betyget " + num[i]);
 }
 
-
+*/
 
 
 string input = "";
@@ -25,7 +25,7 @@ string input = "";
 List<string> CitiesList = new();
 
 while (input.ToLower() != "exit") // (lowercase sensitiv4e)
-{
+{   
     Console.WriteLine("Type a city or type 'exit' to exit");
     input = Console.ReadLine();
 

@@ -1,0 +1,15 @@
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\bin\Debug\net6.0\metoder.exe
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\bin\Debug\net6.0\metoder.deps.json
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\bin\Debug\net6.0\metoder.runtimeconfig.json
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\bin\Debug\net6.0\metoder.dll
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\bin\Debug\net6.0\metoder.pdb
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\obj\Debug\net6.0\metoder.csproj.AssemblyReference.cache
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\obj\Debug\net6.0\metoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\obj\Debug\net6.0\metoder.AssemblyInfoInputs.cache
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\obj\Debug\net6.0\metoder.AssemblyInfo.cs
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\obj\Debug\net6.0\metoder.csproj.CoreCompileInputs.cache
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\obj\Debug\net6.0\metoder.dll
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\obj\Debug\net6.0\refint\metoder.dll
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\obj\Debug\net6.0\metoder.pdb
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\obj\Debug\net6.0\metoder.genruntimeconfig.cache
+C:\Users\thomas.karlsson3\Documents\prog2\Metoder\metoder\obj\Debug\net6.0\ref\metoder.dll
