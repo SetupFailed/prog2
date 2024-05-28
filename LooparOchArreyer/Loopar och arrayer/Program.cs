@@ -24,7 +24,7 @@ string input = "";
 
 List<string> CitiesList = new();
 
-while (input.ToLower() != "exit") // (lowercase sensitiv4e)
+while (input.ToLower() != "exit") // (lowercase sensitive)
 {   
     Console.WriteLine("Type a city or type 'exit' to exit");
     input = Console.ReadLine();
@@ -34,8 +34,5 @@ while (input.ToLower() != "exit") // (lowercase sensitiv4e)
         CitiesList.Add(input); // Add the city to the list
     }
     Console.WriteLine("Cities entered:");
-    foreach (string city in CitiesList)
-    {
-        Console.WriteLine(city); // Output the cities entered
-    }
+   
 }

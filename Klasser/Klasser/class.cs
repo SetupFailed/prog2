@@ -50,7 +50,7 @@ public class Rock
     // Konstruktor som tar emot vikten och sparar den i den privata variabeln weight
     public Rock(double w)
     {
-        weight = w;
+        weight = w; 
     }
 
     // Metod som returnerar värdet på weight

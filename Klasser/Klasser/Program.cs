@@ -1,5 +1,5 @@
 ﻿using System;
-/*
+
 static void Books()
 {
     // Skapa tre instanser av Book med olika namn och antal sidor
@@ -22,7 +22,8 @@ static void Books()
 Books();
 Console.ReadLine();
 
-//////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+
 static void Rocks()
 {
     List<Rock> rockList = new List<Rock>();
@@ -63,6 +64,7 @@ static void Rocks()
 }
 Rocks();
 
+////////////////////////////////////////////////////////////////////////////////
 
 static void Collars()
     {
@@ -93,7 +95,8 @@ static void Collars()
         Console.ReadLine();
     }
 Collars();
-*/
+
+//////////////////////////////////////////////////////////////////////////////////////////////
 
 static void Hardwares()
 {
